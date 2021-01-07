@@ -1,0 +1,4 @@
+NodeID,ProdServer,TH_NodeType,TH_ServerType,Caption,Sysname,Vendor,Location,LastSync,MachineType,External,NodeName,DetailsURL,DisplayName,Category,TH_APPS,TH_Location,TH_PHI_Data,TH_ServerFunction,TH_TPOC_1,TH_TPOC_2
+2488,FALSE,Server,Virtual,dc-isep02.thadmin.com,,Unknown,,2020-01-27T17:15:06.7400000,Unknown,FALSE,dc-isep02.thadmin.com,/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:2488,dc-isep02.thadmin.com,0,,HVDC,,Infrastructure,,
+2496,FALSE,Server,Virtual,dc-isep04.thadmin.com,,Unknown,,2020-01-27T17:14:44.8000000,Unknown,FALSE,dc-isep04.thadmin.com,/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:2496,dc-isep04.thadmin.com,0,,HVDC,,Infrastructure,,
+2497,FALSE,Server,Virtual,dc-isep01.thadmin.com,,Unknown,,2020-01-27T17:15:06.8330000,Unknown,FALSE,dc-isep01.thadmin.com,/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:2497,dc-isep01.thadmin.com,0,,HVDC,,Infrastructure,,
